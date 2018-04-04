@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-facotry-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-facotry-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-facotry-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-facotry-pattern_main.iml" group="abstract-facotry-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-facotry-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-facotry-pattern_test.iml" group="abstract-facotry-pattern" />
+    </modules>
+  </component>
+</project>
